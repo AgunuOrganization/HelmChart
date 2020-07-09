@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-09T04:06:06.886189627Z"
+    description: A Helm chart for Kubernetes
+    digest: e44a7c539e535c14a9b3a73bfa32fbec5db2754b58815aa6270b8fe966f0ba74
+    name: javawebapp
+    type: application
+    urls:
+    - https://agunuorganization.github.io/HelmChart/javawebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-09T04:06:06.882676554Z"
